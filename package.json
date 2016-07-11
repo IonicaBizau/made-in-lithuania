@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -709,6 +710,51 @@
               "2",
               "[@serengeor](https://github.com/serengeor)/[**TheProject**](https://github.com/serengeor/TheProject)",
               "One step at a time",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "38",
+              "[@Varnius](https://github.com/Varnius)/[**StarlingRendererPlus**](https://github.com/Varnius/StarlingRendererPlus)",
+              "Starling deferred shading and post-fx extension",
+              ""
+            ],
+            [
+              "19",
+              "[@Varnius](https://github.com/Varnius)/[**StarlingDynamicShado…**](https://github.com/Varnius/StarlingDynamicShadows2D)",
+              "Starling deferred renderer sample project",
+              "[:arrow_upper_right:](www.nekobit.eu)"
+            ],
+            [
+              "15",
+              "[@Varnius](https://github.com/Varnius)/[**SpriteIlluminatorSta…**](https://github.com/Varnius/SpriteIlluminatorStarling)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@Varnius](https://github.com/Varnius)/[**Alternativa3DCustomM…**](https://github.com/Varnius/Alternativa3DCustomMaterials)",
+              "Custom materials for Alternativa3D",
+              ""
+            ],
+            [
+              "2",
+              "[@TurboMask](https://github.com/TurboMask)/[**Fractals**](https://github.com/TurboMask/Fractals)",
+              "Fractal image generator",
               ""
             ]
           ]
