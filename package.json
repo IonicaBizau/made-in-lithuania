@@ -56,7 +56,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1071,6 +1072,249 @@
               "2",
               "[@EllisV](https://github.com/EllisV)/[**oxid-standard**](https://github.com/EllisV/oxid-standard)",
               "The \"OXID Standard Edition\" distribution",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "158",
+              "[@GedRap](https://github.com/GedRap)/[**xs-vm**](https://github.com/GedRap/xs-vm)",
+              "eXtremely small virtual machine -- for education purposes :)",
+              ""
+            ],
+            [
+              "145",
+              "[@mgedmin](https://github.com/mgedmin)/[**objgraph**](https://github.com/mgedmin/objgraph)",
+              "Visually explore Python object graphs",
+              "[:arrow_upper_right:](http://mg.pov.lt/objgraph/)"
+            ],
+            [
+              "116",
+              "[@mgedmin](https://github.com/mgedmin)/[**profilehooks**](https://github.com/mgedmin/profilehooks)",
+              "Python decorators for profiling/tracing/timing a single function",
+              "[:arrow_upper_right:](http://mg.pov.lt/profilehooks/)"
+            ],
+            [
+              "78",
+              "[@mgedmin](https://github.com/mgedmin)/[**restview**](https://github.com/mgedmin/restview)",
+              "ReStructuredText viewer",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/restview)"
+            ],
+            [
+              "73",
+              "[@mgedmin](https://github.com/mgedmin)/[**check-manifest**](https://github.com/mgedmin/check-manifest)",
+              "Tool to check the completeness of MANIFEST.in for Python packages",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/check-manifest)"
+            ],
+            [
+              "42",
+              "[@mgedmin](https://github.com/mgedmin)/[**irclog2html**](https://github.com/mgedmin/irclog2html)",
+              "Convert IRC logs to HTML",
+              "[:arrow_upper_right:](http://mg.pov.lt/irclog2html/)"
+            ],
+            [
+              "38",
+              "[@kedder](https://github.com/kedder)/[**ofxstatement**](https://github.com/kedder/ofxstatement)",
+              "Tool to convert proprietary bank statement to OFX format, suitable for importing to GnuCash.",
+              ""
+            ],
+            [
+              "24",
+              "[@spajus](https://github.com/spajus)/[**gitmon**](https://github.com/spajus/gitmon)",
+              "Git Repository Monitor",
+              ""
+            ],
+            [
+              "17",
+              "[@mgedmin](https://github.com/mgedmin)/[**findimports**](https://github.com/mgedmin/findimports)",
+              "Static analysis of Python import statements",
+              ""
+            ],
+            [
+              "15",
+              "[@flakas](https://github.com/flakas)/[**Latte**](https://github.com/flakas/Latte)",
+              "Automatic rule based time tracker for Linux",
+              ""
+            ],
+            [
+              "12",
+              "[@mgedmin](https://github.com/mgedmin)/[**imgdiff**](https://github.com/mgedmin/imgdiff)",
+              "Compare two images side-by-side",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/imgdiff)"
+            ],
+            [
+              "8",
+              "[@Ignas](https://github.com/Ignas)/[**nose_xunitmp**](https://github.com/Ignas/nose_xunitmp)",
+              "nosetest xunit plugin multiprocessor support",
+              ""
+            ],
+            [
+              "8",
+              "[@Ignas](https://github.com/Ignas)/[**graphite_standalone**](https://github.com/Ignas/graphite_standalone)",
+              "Self contained way to install and run statsd + graphite",
+              ""
+            ],
+            [
+              "7",
+              "[@povilasb](https://github.com/povilasb)/[**quic-version-detecto…**](https://github.com/povilasb/quic-version-detector)",
+              "Version detectiont tool for QUIC servers",
+              ""
+            ],
+            [
+              "6",
+              "[@mgedmin](https://github.com/mgedmin)/[**scripts**](https://github.com/mgedmin/scripts)",
+              "My ~/bin",
+              ""
+            ],
+            [
+              "6",
+              "[@mgedmin](https://github.com/mgedmin)/[**dozer**](https://github.com/mgedmin/dozer)",
+              "WSGI middleware for profiling CPU/memory and inspecting logs",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/Dozer)"
+            ],
+            [
+              "5",
+              "[@GedRap](https://github.com/GedRap)/[**voyager**](https://github.com/GedRap/voyager)",
+              "Python library for financial backtesting",
+              ""
+            ],
+            [
+              "5",
+              "[@mgedmin](https://github.com/mgedmin)/[**eazysvn**](https://github.com/mgedmin/eazysvn)",
+              "Subversion branching and merging made a bit easier",
+              "[:arrow_upper_right:](http://mg.pov.lt/eazysvn/)"
+            ],
+            [
+              "5",
+              "[@naglis](https://github.com/naglis)/[**mopidy-leftasrain**](https://github.com/naglis/mopidy-leftasrain)",
+              "Mopidy extension to get tracks from leftasrain.com",
+              ""
+            ],
+            [
+              "5",
+              "[@povilasb](https://github.com/povilasb)/[**scrapy-html-storage**](https://github.com/povilasb/scrapy-html-storage)",
+              "Scrapy downloader middleware that stores response HTMLs to disk.",
+              ""
+            ],
+            [
+              "5",
+              "[@mgedmin](https://github.com/mgedmin)/[**vboxpanel**](https://github.com/mgedmin/vboxpanel)",
+              "Simple webapp to control headless VirtualBox machines",
+              ""
+            ],
+            [
+              "4",
+              "[@kedder](https://github.com/kedder)/[**sublime-python-trace…**](https://github.com/kedder/sublime-python-traceback)",
+              "Easy navigation in your python tracebacks",
+              ""
+            ],
+            [
+              "4",
+              "[@GedRap](https://github.com/GedRap)/[**lightshot**](https://github.com/GedRap/lightshot)",
+              "A lightweight RESTful API for taking screenshots of web sites.",
+              ""
+            ],
+            [
+              "4",
+              "[@toinbis](https://github.com/toinbis)/[**369old**](https://github.com/toinbis/369old)",
+              "Social media monitoring service",
+              "[:arrow_upper_right:](www.369.lt)"
+            ],
+            [
+              "4",
+              "[@trimailov](https://github.com/trimailov)/[**timeflow**](https://github.com/trimailov/timeflow)",
+              "Simple cli time tracker inspired by gtimelog",
+              ""
+            ],
+            [
+              "4",
+              "[@naglis](https://github.com/naglis)/[**antiseptic**](https://github.com/naglis/antiseptic)",
+              "A simple command-line movie directory name cleaner",
+              ""
+            ],
+            [
+              "3",
+              "[@kedder](https://github.com/kedder)/[**kdrvario**](https://github.com/kedder/kdrvario)",
+              "Software for a beeping variometer project",
+              ""
+            ],
+            [
+              "3",
+              "[@Ignas](https://github.com/Ignas)/[**VilniusCodingDojo01**](https://github.com/Ignas/VilniusCodingDojo01)",
+              "Small Pyramid app that was created during first CodingDojo in vilnius",
+              ""
+            ],
+            [
+              "3",
+              "[@Paulius-Maruska](https://github.com/Paulius-Maruska)/[**webapp2x**](https://github.com/Paulius-Maruska/webapp2x)",
+              "Google App Engine (webapp2) extentions",
+              ""
+            ],
+            [
+              "3",
+              "[@andriusm](https://github.com/andriusm)/[**FTP-search**](https://github.com/andriusm/FTP-search)",
+              "A python script that allows one to search a specified FTP site",
+              ""
+            ],
+            [
+              "3",
+              "[@mgedmin](https://github.com/mgedmin)/[**zodbbrowser**](https://github.com/mgedmin/zodbbrowser)",
+              "ZODB browser",
+              "[:arrow_upper_right:](http://launchpad.net/zodbbrowser)"
+            ],
+            [
+              "3",
+              "[@mgedmin](https://github.com/mgedmin)/[**webtreemap-du**](https://github.com/mgedmin/webtreemap-du)",
+              "Visualize disk usage using web-based treemaps",
+              ""
+            ],
+            [
+              "3",
+              "[@mgedmin](https://github.com/mgedmin)/[**pdf2html**](https://github.com/mgedmin/pdf2html)",
+              "Wrapper for pdftohtml that tries to extract paragraph structure",
+              ""
+            ],
+            [
+              "2",
+              "[@Ignas](https://github.com/Ignas)/[**Dodopult**](https://github.com/Ignas/Dodopult)",
+              "Vilnius GGJ Dodopult game",
+              ""
+            ],
+            [
+              "2",
+              "[@flakas](https://github.com/flakas)/[**Multiprocess-e**](https://github.com/flakas/Multiprocess-e)",
+              "High precision e calculator using multiprocessing",
+              ""
+            ],
+            [
+              "2",
+              "[@Ignas](https://github.com/Ignas)/[**Blank-Pyramid-Sandbo…**](https://github.com/Ignas/Blank-Pyramid-Sandbox)",
+              "My kind of sandbox for a pyramid application",
+              ""
+            ],
+            [
+              "2",
+              "[@mgedmin](https://github.com/mgedmin)/[**memgraphinator**](https://github.com/mgedmin/memgraphinator)",
+              "Graph the memory usage of a single process",
+              ""
+            ],
+            [
+              "2",
+              "[@ReekenX](https://github.com/ReekenX)/[**poor-man-medal-of-ho…**](https://github.com/ReekenX/poor-man-medal-of-honor-game)",
+              "My game written for Pyweek #21. It's Poor man's Medal of Honor game. Trust me - very poor.",
               ""
             ]
           ]
