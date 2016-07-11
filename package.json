@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -778,6 +779,33 @@
               "[@lekevicius](https://github.com/lekevicius)/[**assetpress**](https://github.com/lekevicius/assetpress)",
               "High quality asset resizer for iOS and Android. Features Xcassets generator and the best 9-patch resizer.",
               "[:arrow_upper_right:](http://lekevicius.com/projects/assetpress)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@mindeunix](https://github.com/mindeunix)/[**awesome-config**](https://github.com/mindeunix/awesome-config)",
+              "Awesome windows manager configuration",
+              ""
+            ],
+            [
+              "2",
+              "[@rracinskij](https://github.com/rracinskij)/[**rnntest01**](https://github.com/rracinskij/rnntest01)",
+              "",
+              ""
             ]
           ]
         }
