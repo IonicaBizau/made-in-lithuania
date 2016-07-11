@@ -59,7 +59,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -1641,6 +1642,39 @@
               "2",
               "[@vidmantas](https://github.com/vidmantas)/[**numerical-methods**](https://github.com/vidmantas/numerical-methods)",
               "Little apps for numerical methods course in software engineering, Vilnius University",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13",
+              "[@zamblauskas](https://github.com/zamblauskas)/[**jstatplot**](https://github.com/zamblauskas/jstatplot)",
+              "Visualize `jstat -gc` results.",
+              ""
+            ],
+            [
+              "11",
+              "[@ViliusN](https://github.com/ViliusN)/[**Crossbow**](https://github.com/ViliusN/Crossbow)",
+              "Open source library for trading strategy developers.",
+              "[:arrow_upper_right:](http://crossbow-library.blogspot.com/)"
+            ],
+            [
+              "7",
+              "[@zamblauskas](https://github.com/zamblauskas)/[**scala-csv-parser**](https://github.com/zamblauskas/scala-csv-parser)",
+              "CSV parser library.",
               ""
             ]
           ]
