@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -315,6 +316,201 @@
               "2",
               "[@edmundas-ramanauskas](https://github.com/edmundas-ramanauskas)/[**square**](https://github.com/edmundas-ramanauskas/square)",
               "Clone of Dots game for Android",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "105",
+              "[@radioman](https://github.com/radioman)/[**greatmaps**](https://github.com/radioman/greatmaps)",
+              "GMap.NET - Great Maps for Windows Forms & Presentation",
+              ""
+            ],
+            [
+              "98",
+              "[@txdv](https://github.com/txdv)/[**LibuvSharp**](https://github.com/txdv/LibuvSharp)",
+              ".NET bindings for libuv",
+              ""
+            ],
+            [
+              "28",
+              "[@txdv](https://github.com/txdv)/[**sundown.net**](https://github.com/txdv/sundown.net)",
+              "A .NET wrapper of the nice sundown markdown library.",
+              ""
+            ],
+            [
+              "9",
+              "[@sergejusb](https://github.com/sergejusb)/[**DotNetGroup**](https://github.com/sergejusb/DotNetGroup)",
+              "DotNetGroup.lt social platform",
+              "[:arrow_upper_right:](http://dotnetgroup.lt)"
+            ],
+            [
+              "7",
+              "[@keith-hall](https://github.com/keith-hall)/[**reactive-animation**](https://github.com/keith-hall/reactive-animation)",
+              "Small, simple C# animation library built using the reactive extensions framework, utilizing Robert Penner's easing functions. Does not make use of reflection, instead allowing the caller to use a function/monad to update their desired object.",
+              ""
+            ],
+            [
+              "7",
+              "[@ren85](https://github.com/ren85)/[**free-sql-server-prof…**](https://github.com/ren85/free-sql-server-profiler)",
+              "free sql server profiler",
+              ""
+            ],
+            [
+              "6",
+              "[@ren85](https://github.com/ren85)/[**catcher**](https://github.com/ren85/catcher)",
+              "Http packet viewer for linux and windows",
+              ""
+            ],
+            [
+              "5",
+              "[@dkucinskas](https://github.com/dkucinskas)/[**LibCSV4Net**](https://github.com/dkucinskas/LibCSV4Net)",
+              "Library for reading and writing tabular (CSV) files.",
+              ""
+            ],
+            [
+              "5",
+              "[@mmozuras](https://github.com/mmozuras)/[**Specflow.WatiN**](https://github.com/mmozuras/Specflow.WatiN)",
+              "WatiN scenario steps for SpecFlow",
+              ""
+            ],
+            [
+              "4",
+              "[@txdv](https://github.com/txdv)/[**SmartIrcBot4net**](https://github.com/txdv/SmartIrcBot4net)",
+              "An IRC bot framework build on top of SmartIrc4net",
+              ""
+            ],
+            [
+              "4",
+              "[@ren85](https://github.com/ren85)/[**rextester_linux**](https://github.com/ren85/rextester_linux)",
+              "Run code snippets from your browser",
+              ""
+            ],
+            [
+              "4",
+              "[@dkucinskas](https://github.com/dkucinskas)/[**net-github-api**](https://github.com/dkucinskas/net-github-api)",
+              "Simple Github API v3 client library for .Net",
+              ""
+            ],
+            [
+              "4",
+              "[@txdv](https://github.com/txdv)/[**sharpmod**](https://github.com/txdv/sharpmod)",
+              "A metamod plugin that allows you to write server side plugins with C# on the GoldSrc engine",
+              ""
+            ],
+            [
+              "3",
+              "[@mmozuras](https://github.com/mmozuras)/[**ODataLambda**](https://github.com/mmozuras/ODataLambda)",
+              "Strongly typed helpers to work with OData",
+              ""
+            ],
+            [
+              "3",
+              "[@dimchansky](https://github.com/dimchansky)/[**real-life-applicatio…**](https://github.com/dimchansky/real-life-applications-of-mathematics)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@dimchansky](https://github.com/dimchansky)/[**MachineLearning.NET**](https://github.com/dimchansky/MachineLearning.NET)",
+              "Machine Learning algorithms implementation in .NET",
+              ""
+            ],
+            [
+              "3",
+              "[@txdv](https://github.com/txdv)/[**LibuvSharp.Blocking**](https://github.com/txdv/LibuvSharp.Blocking)",
+              "LibuvSharp.Blocking",
+              ""
+            ],
+            [
+              "3",
+              "[@txdv](https://github.com/txdv)/[**LibuvSharp.Terminal**](https://github.com/txdv/LibuvSharp.Terminal)",
+              "A terminal library based on ncurses and libuv(LibuvSharp).",
+              ""
+            ],
+            [
+              "3",
+              "[@txdv](https://github.com/txdv)/[**hltools**](https://github.com/txdv/hltools)",
+              "Half Life Tools collection for C# (BSP, WAD parsers, etc...)",
+              ""
+            ],
+            [
+              "3",
+              "[@JLF8086](https://github.com/JLF8086)/[**Visual-C-**](https://github.com/JLF8086/Visual-C-)",
+              "Course #2555 Visual C# solutions",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**Mono.Interop**](https://github.com/txdv/Mono.Interop)",
+              "An extensive interop library for the .net runtime/mono",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**iron**](https://github.com/txdv/iron)",
+              "Game Engine",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**ircbotdotnet**](https://github.com/txdv/ircbotdotnet)",
+              "An Irc Bot framework for IrcDotNet called IrcBotDotNet.",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**HttpParser**](https://github.com/txdv/HttpParser)",
+              "A C# wrapper for http_parser",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**Mono.Terminal**](https://github.com/txdv/Mono.Terminal)",
+              "ncurses bindings for mono",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**qutter**](https://github.com/txdv/qutter)",
+              "Qt <-> .NET object serializer/deserializer",
+              ""
+            ],
+            [
+              "2",
+              "[@txdv](https://github.com/txdv)/[**smartirc4net**](https://github.com/txdv/smartirc4net)",
+              "Manos powered smartirc4net!",
+              ""
+            ],
+            [
+              "2",
+              "[@ren85](https://github.com/ren85)/[**leveldb.net**](https://github.com/ren85/leveldb.net)",
+              ".net wrapper around windows port of leveldb taken from https://bitbucket.org/robertvazan/leveld…",
+              ""
+            ],
+            [
+              "2",
+              "[@akrisiun](https://github.com/akrisiun)/[**csdiff**](https://github.com/akrisiun/csdiff)",
+              "Automatically exported from code.google.com/p/csdiff",
+              ""
+            ],
+            [
+              "2",
+              "[@mmozuras](https://github.com/mmozuras)/[**rison.NET**](https://github.com/mmozuras/rison.NET)",
+              "Rison encoder and decoder for .NET",
               ""
             ]
           ]
