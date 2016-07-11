@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -869,6 +870,207 @@
               "2",
               "[@eimantas](https://github.com/eimantas)/[**ASImageResize**](https://github.com/eimantas/ASImageResize)",
               "ASImageResize",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1551",
+              "[@raveren](https://github.com/raveren)/[**kint**](https://github.com/raveren/kint)",
+              "Kint - a powerful and modern PHP debugging tool.",
+              "[:arrow_upper_right:](http://raveren.github.io/kint/)"
+            ],
+            [
+              "483",
+              "[@Pawka](https://github.com/Pawka)/[**phrozn**](https://github.com/Pawka/phrozn)",
+              "Phrozn is extremely flexible static site generator in PHP.",
+              "[:arrow_upper_right:](phrozn.info)"
+            ],
+            [
+              "95",
+              "[@edmundask](https://github.com/edmundask)/[**codeigniter-twiggy**](https://github.com/edmundask/codeigniter-twiggy)",
+              "Twiggy - Twig template engine implementation for CodeIgniter",
+              "[:arrow_upper_right:](http://edmundask.github.com/codeigniter-twiggy)"
+            ],
+            [
+              "42",
+              "[@fordnox](https://github.com/fordnox)/[**Zend_Auth_Adapter_Fa…**](https://github.com/fordnox/Zend_Auth_Adapter_Facebook)",
+              "Facebook oAuth2 Auth adapter for Zend Framework",
+              "[:arrow_upper_right:](http://fordnox.com)"
+            ],
+            [
+              "28",
+              "[@fordnox](https://github.com/fordnox)/[**php-queue-manager**](https://github.com/fordnox/php-queue-manager)",
+              "PHP Queue Manager and Task Executor",
+              "[:arrow_upper_right:](http://fordnox.github.io/php-queue-manager/)"
+            ],
+            [
+              "26",
+              "[@edmundask](https://github.com/edmundask)/[**Sprinkle**](https://github.com/edmundask/Sprinkle)",
+              "Asset management library for CodeIgniter",
+              "[:arrow_upper_right:](http://edmundask.github.com/Sprinkle)"
+            ],
+            [
+              "23",
+              "[@EllisV](https://github.com/EllisV)/[**oxid-console**](https://github.com/EllisV/oxid-console)",
+              "OXID Console is php console application for OXID Shop. It provides an API for writing various commands. We have shipped very common for every oxid shop project commands out of the box.",
+              ""
+            ],
+            [
+              "17",
+              "[@ifdattic](https://github.com/ifdattic)/[**symfony-app-deploy-t…**](https://github.com/ifdattic/symfony-app-deploy-to-aws-eb-article-code)",
+              "The code used in http://ifdattic.com/how-to-deploy-symfon… article",
+              ""
+            ],
+            [
+              "12",
+              "[@raveren](https://github.com/raveren)/[**php-arr**](https://github.com/raveren/php-arr)",
+              "powerful PHP5 array manipulation",
+              ""
+            ],
+            [
+              "11",
+              "[@edmundask](https://github.com/edmundask)/[**MurmurQuery**](https://github.com/edmundask/MurmurQuery)",
+              "MurmurQuery is a PHP class based on GT Murmur Plugin & used for querying Murmur servers.",
+              "[:arrow_upper_right:](http://edmundask.github.com/MurmurQuery)"
+            ],
+            [
+              "11",
+              "[@gskema](https://github.com/gskema)/[**prestashop-installer**](https://github.com/gskema/prestashop-installer)",
+              "PHP CLI PrestaShop downloader. Downloads and extracts PrestaShop files.",
+              "[:arrow_upper_right:](https://packagist.org/packages/gskema/prestashop-installer)"
+            ],
+            [
+              "10",
+              "[@kaunasphp](https://github.com/kaunasphp)/[**kaunasphp-meetups**](https://github.com/kaunasphp/kaunasphp-meetups)",
+              "KaunasPHP meetups",
+              ""
+            ],
+            [
+              "9",
+              "[@edmundask](https://github.com/edmundask)/[**codeigniter-placehol…**](https://github.com/edmundask/codeigniter-placeholder)",
+              "Image and text placeholder helper for CodeIgniter",
+              "[:arrow_upper_right:](http://edmundask.github.com/codeigniter-placeholder/)"
+            ],
+            [
+              "9",
+              "[@Pawka](https://github.com/Pawka)/[**phrozn-bundles**](https://github.com/Pawka/phrozn-bundles)",
+              "Phrozn Bundles: Official Repo",
+              "[:arrow_upper_right:](http://www.phrozn.info/en/documentation/processors/)"
+            ],
+            [
+              "7",
+              "[@edmundask](https://github.com/edmundask)/[**FlamingGrowl**](https://github.com/edmundask/FlamingGrowl)",
+              "PHP CodeIgniter GNTP library",
+              ""
+            ],
+            [
+              "7",
+              "[@simison](https://github.com/simison)/[**PHP-Mailman**](https://github.com/simison/PHP-Mailman)",
+              "PHP Class to use some functionality of GNU Mailman",
+              ""
+            ],
+            [
+              "6",
+              "[@ifdattic](https://github.com/ifdattic)/[**EUpdateDialog**](https://github.com/ifdattic/EUpdateDialog)",
+              "Yii extension which allows to create/update/delete model using dialog window.",
+              ""
+            ],
+            [
+              "6",
+              "[@darles](https://github.com/darles)/[**RemoteCallBundle**](https://github.com/darles/RemoteCallBundle)",
+              "The DarlesRemoteCallBundle adds links to quick open current Controller, Template & Entities in PHPStorm IDE using RemoteCall Plugin in Symfony2 profiler toolbar.",
+              ""
+            ],
+            [
+              "5",
+              "[@edmundask](https://github.com/edmundask)/[**codeigniter-twiggy-d…**](https://github.com/edmundask/codeigniter-twiggy-demo)",
+              "Twiggy Demo App",
+              "[:arrow_upper_right:](http://edmundask.github.com/codeigniter-twiggy)"
+            ],
+            [
+              "5",
+              "[@fordnox](https://github.com/fordnox)/[**php-dbunit-on-travis…**](https://github.com/fordnox/php-dbunit-on-travis-ci)",
+              "Example application to run PHP DBUnit tests on Travis-CI",
+              ""
+            ],
+            [
+              "4",
+              "[@fordnox](https://github.com/fordnox)/[**mikron**](https://github.com/fordnox/mikron)",
+              "Simple PHP PDO data mapper",
+              ""
+            ],
+            [
+              "4",
+              "[@tadaskay](https://github.com/tadaskay)/[**live-stream-badger**](https://github.com/tadaskay/live-stream-badger)",
+              "Display status of Twitch.tv livestreams",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/live-stream-badger/)"
+            ],
+            [
+              "3",
+              "[@ifdattic](https://github.com/ifdattic)/[**EJuiTimePicker**](https://github.com/ifdattic/EJuiTimePicker)",
+              "Yii extension which adds Timepicker addon.",
+              ""
+            ],
+            [
+              "2",
+              "[@Pawka](https://github.com/Pawka)/[**Aggregator**](https://github.com/Pawka/Aggregator)",
+              "RSS aggregator",
+              ""
+            ],
+            [
+              "2",
+              "[@remdex](https://github.com/remdex)/[**hppg**](https://github.com/remdex/hppg)",
+              "High Performance Photo Gallery",
+              ""
+            ],
+            [
+              "2",
+              "[@remdex](https://github.com/remdex)/[**fof**](https://github.com/remdex/fof)",
+              "Framework used for custom project",
+              ""
+            ],
+            [
+              "2",
+              "[@tadcka](https://github.com/tadcka)/[**JsTreeBundle**](https://github.com/tadcka/JsTreeBundle)",
+              "TadckaJsTreeBundle integrates library JsTree.",
+              ""
+            ],
+            [
+              "2",
+              "[@tadcka](https://github.com/tadcka)/[**SmartTwig**](https://github.com/tadcka/SmartTwig)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fordnox](https://github.com/fordnox)/[**purevpn-php-api-clie…**](https://github.com/fordnox/purevpn-php-api-client)",
+              "API wrapper for PureVPN",
+              ""
+            ],
+            [
+              "2",
+              "[@fordnox](https://github.com/fordnox)/[**analysis**](https://github.com/fordnox/analysis)",
+              "Analyze website",
+              ""
+            ],
+            [
+              "2",
+              "[@EllisV](https://github.com/EllisV)/[**oxid-standard**](https://github.com/EllisV/oxid-standard)",
+              "The \"OXID Standard Edition\" distribution",
               ""
             ]
           ]
