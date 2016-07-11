@@ -38,5 +38,188 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-lithuania/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-lithuania#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-lithuania#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "354",
+              "[@jakutis](https://github.com/jakutis)/[**httpinvoke**](https://github.com/jakutis/httpinvoke)",
+              "A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.",
+              "[:arrow_upper_right:](https://www.npmjs.org/package/httpinvoke)"
+            ],
+            [
+              "146",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**remove-github-forks**](https://github.com/denis-sokolov/remove-github-forks)",
+              "Clean your useless GitHub forks",
+              ""
+            ],
+            [
+              "24",
+              "[@nikaspran](https://github.com/nikaspran)/[**fluent.js**](https://github.com/nikaspran/fluent.js)",
+              "Tiny library for building fluent interfaces in JavaScript",
+              "[:arrow_upper_right:](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)"
+            ],
+            [
+              "18",
+              "[@emilis](https://github.com/emilis)/[**PolicyFeed**](https://github.com/emilis/PolicyFeed)",
+              "Government news aggregator",
+              "[:arrow_upper_right:](http://kaveikiavaldzia.lt/)"
+            ],
+            [
+              "15",
+              "[@nikaspran](https://github.com/nikaspran)/[**example-ui-router-te…**](https://github.com/nikaspran/example-ui-router-testing)",
+              "Example repository for how to unit test UI router configuration",
+              "[:arrow_upper_right:](http://nikas.praninskas.com/test-ui-router)"
+            ],
+            [
+              "13",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**chrome-supergenpass**](https://github.com/denis-sokolov/chrome-supergenpass)",
+              "Comfortable use of SuperGenPass from Google Chrome.",
+              "[:arrow_upper_right:](https://chrome.google.com/extensions/detail/bmmmhbgdbpnbfefmacdlbpfgegcibkjo/)"
+            ],
+            [
+              "12",
+              "[@bytasv](https://github.com/bytasv)/[**scriptless-slides**](https://github.com/bytasv/scriptless-slides)",
+              "Scriptless slideshow, no Javascript, only HTML and CSS",
+              ""
+            ],
+            [
+              "9",
+              "[@Tomas-Sereikis](https://github.com/Tomas-Sereikis)/[**Angular-Storage**](https://github.com/Tomas-Sereikis/Angular-Storage)",
+              "Angular storage module for handling localStorage and sessionStorage.",
+              ""
+            ],
+            [
+              "8",
+              "[@emilis](https://github.com/emilis)/[**worldradioplayer**](https://github.com/emilis/worldradioplayer)",
+              "World Radio Player – Internet radio player for Firefox OS",
+              ""
+            ],
+            [
+              "8",
+              "[@jakutis](https://github.com/jakutis)/[**rserve-client**](https://github.com/jakutis/rserve-client)",
+              "A stateful client for Rserve, the TCP/IP server for R framework.",
+              "[:arrow_upper_right:](https://www.npmjs.org/package/rserve-client)"
+            ],
+            [
+              "7",
+              "[@jakutis](https://github.com/jakutis)/[**trello-backup**](https://github.com/jakutis/trello-backup)",
+              "Backup your data from Trello",
+              ""
+            ],
+            [
+              "7",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**strict-standard**](https://github.com/denis-sokolov/strict-standard)",
+              "JavaScript Strict Standard Style",
+              ""
+            ],
+            [
+              "7",
+              "[@Tomas-Sereikis](https://github.com/Tomas-Sereikis)/[**youtube-music**](https://github.com/Tomas-Sereikis/youtube-music)",
+              "Offline Youtube iOS player",
+              ""
+            ],
+            [
+              "7",
+              "[@emilis](https://github.com/emilis)/[**solr-lt**](https://github.com/emilis/solr-lt)",
+              "Solr server with Lithuanian language support",
+              ""
+            ],
+            [
+              "6",
+              "[@liesislukas](https://github.com/liesislukas)/[**ReactJs-ReactNative-…**](https://github.com/liesislukas/ReactJs-ReactNative-examples)",
+              "I build stuff with react. I add working examples here. Enjoy.",
+              ""
+            ],
+            [
+              "6",
+              "[@emilis](https://github.com/emilis)/[**gutenberg-catalog-sq…**](https://github.com/emilis/gutenberg-catalog-sqlite)",
+              "Gutenberg Catalog Converter to Sqlite",
+              ""
+            ],
+            [
+              "4",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**multi-ssh**](https://github.com/denis-sokolov/multi-ssh)",
+              "Run the same command on multiple servers.",
+              ""
+            ],
+            [
+              "4",
+              "[@nedaszilinskas](https://github.com/nedaszilinskas)/[**Odoo-CMS-Cycle-Build…**](https://github.com/nedaszilinskas/Odoo-CMS-Cycle-Building-Block)",
+              "This custom module enables a custom image slider building block in Odoo CMS admin bar.",
+              ""
+            ],
+            [
+              "3",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**remote-dotfiles**](https://github.com/denis-sokolov/remote-dotfiles)",
+              "Deploy your dotfiles",
+              ""
+            ],
+            [
+              "2",
+              "[@emilis](https://github.com/emilis)/[**sticks**](https://github.com/emilis/sticks)",
+              "Building material for web apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@emilis](https://github.com/emilis)/[**craft-client**](https://github.com/emilis/craft-client)",
+              "NodeJS client libraries for Craft game.",
+              ""
+            ],
+            [
+              "2",
+              "[@emilis](https://github.com/emilis)/[**objectfs-core**](https://github.com/emilis/objectfs-core)",
+              "ObjectFS core library",
+              "[:arrow_upper_right:](http://objectfs.org/)"
+            ],
+            [
+              "2",
+              "[@emilis](https://github.com/emilis)/[**craft-mailbot**](https://github.com/emilis/craft-mailbot)",
+              "Mailbot for Craft",
+              ""
+            ],
+            [
+              "2",
+              "[@Tomas-Sereikis](https://github.com/Tomas-Sereikis)/[**Pe**](https://github.com/Tomas-Sereikis/Pe)",
+              "Promise Evaluation - library that handles your stack evaluations",
+              ""
+            ],
+            [
+              "2",
+              "[@denis-sokolov](https://github.com/denis-sokolov)/[**details-tag**](https://github.com/denis-sokolov/details-tag)",
+              "A polyfill for <details> tag.",
+              ""
+            ],
+            [
+              "2",
+              "[@sergej-kurakin](https://github.com/sergej-kurakin)/[**jquery-plugin-kickst…**](https://github.com/sergej-kurakin/jquery-plugin-kickstart)",
+              "jQuery Plugin KickStart",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
