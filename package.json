@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -215,6 +216,105 @@
               "2",
               "[@sergej-kurakin](https://github.com/sergej-kurakin)/[**jquery-plugin-kickst…**](https://github.com/sergej-kurakin/jquery-plugin-kickstart)",
               "jQuery Plugin KickStart",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "680",
+              "[@palaima](https://github.com/palaima)/[**DebugDrawer**](https://github.com/palaima/DebugDrawer)",
+              "Android Debug Drawer for faster development",
+              ""
+            ],
+            [
+              "108",
+              "[@palaima](https://github.com/palaima)/[**AndroidSmoothBluetoo…**](https://github.com/palaima/AndroidSmoothBluetooth)",
+              "Smooth communication via bluetooth with other android devices or microcontrollers such as Arduino.",
+              ""
+            ],
+            [
+              "42",
+              "[@baruckis](https://github.com/baruckis)/[**Android-SlidingMenuI…**](https://github.com/baruckis/Android-SlidingMenuImplementation)",
+              "Android example app, which shows how to do dynamic implementation of a sliding out menu using Android library SlidingMenu.",
+              ""
+            ],
+            [
+              "17",
+              "[@valdasraps](https://github.com/valdasraps)/[**esj**](https://github.com/valdasraps/esj)",
+              "Java client for EventStore (http://geteventstore.com)",
+              ""
+            ],
+            [
+              "11",
+              "[@OlegSmelov](https://github.com/OlegSmelov)/[**omgrofl-interpreter**](https://github.com/OlegSmelov/omgrofl-interpreter)",
+              "Omgrofl interpreter",
+              ""
+            ],
+            [
+              "10",
+              "[@ignl](https://github.com/ignl)/[**BinarySearchTrees**](https://github.com/ignl/BinarySearchTrees)",
+              "Java binary search trees implementations and tests: AVL Tree, Red black tree, Scapegoat tree, Splay tree, Treap",
+              ""
+            ],
+            [
+              "10",
+              "[@ignl](https://github.com/ignl)/[**happyfacescrud**](https://github.com/ignl/happyfacescrud)",
+              "JSF, Maven archetype, Crud, Quickstartup, Project skeleton, JSFcomponents",
+              "[:arrow_upper_right:](http://intelligentjava.wordpress.com/2014/07/11/happyfaces-archetype-tutorial-easy-jsf-with-custom-components/)"
+            ],
+            [
+              "7",
+              "[@valdasraps](https://github.com/valdasraps)/[**resthub**](https://github.com/valdasraps/resthub)",
+              "RESTful interface to Oracle databases",
+              ""
+            ],
+            [
+              "7",
+              "[@baruckis](https://github.com/baruckis)/[**Android-ActionBarTab…**](https://github.com/baruckis/Android-ActionBarTabs)",
+              "Android demo of tabbed navigation made with ActionBar and Fragments.",
+              ""
+            ],
+            [
+              "4",
+              "[@ignl](https://github.com/ignl)/[**StockMarketSimulatio…**](https://github.com/ignl/StockMarketSimulation)",
+              "Stock market simulation using cellular automata",
+              ""
+            ],
+            [
+              "4",
+              "[@ignl](https://github.com/ignl)/[**MachineLearning**](https://github.com/ignl/MachineLearning)",
+              "My machine learning algortihms imlementations. Currently only unfinished linear regression and logistic regression. Also added decision tree.",
+              ""
+            ],
+            [
+              "3",
+              "[@OrangGeeGee](https://github.com/OrangGeeGee)/[**LM-Bot-Uploader**](https://github.com/OrangGeeGee/LM-Bot-Uploader)",
+              "Java kalboje parašytas bot'as, kuris atsiųstus torrentus išrarina, gauna jiem aprašymus ir sukelia į LM'ą. Na ir automatiškai paleidžia dar po to :)",
+              ""
+            ],
+            [
+              "2",
+              "[@OrangGeeGee](https://github.com/OrangGeeGee)/[**LM-App**](https://github.com/OrangGeeGee/LM-App)",
+              "LinkoManijos aplikacija Android OS'ui",
+              ""
+            ],
+            [
+              "2",
+              "[@edmundas-ramanauskas](https://github.com/edmundas-ramanauskas)/[**square**](https://github.com/edmundas-ramanauskas/square)",
+              "Clone of Dots game for Android",
               ""
             ]
           ]
