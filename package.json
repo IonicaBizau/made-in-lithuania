@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -512,6 +513,27 @@
               "[@mmozuras](https://github.com/mmozuras)/[**rison.NET**](https://github.com/mmozuras/rison.NET)",
               "Rison encoder and decoder for .NET",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@vilniusrb](https://github.com/vilniusrb)/[**vilniusrb.lt**](https://github.com/vilniusrb/vilniusrb.lt)",
+              "",
+              "[:arrow_upper_right:](http://vilniusrb.lt)"
             ]
           ]
         }
