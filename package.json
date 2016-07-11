@@ -58,7 +58,8 @@
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1337,6 +1338,309 @@
               "3",
               "[@algveb](https://github.com/algveb)/[**Sporto-duomenu-anali…**](https://github.com/algveb/Sporto-duomenu-analize)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "54",
+              "[@andriusch](https://github.com/andriusch)/[**blueprints**](https://github.com/andriusch/blueprints)",
+              "The ultimate DRY and fast solution to loading test data in Ruby and Rails.",
+              "[:arrow_upper_right:](http://andriusch.github.io/blueprints/)"
+            ],
+            [
+              "28",
+              "[@rudkovsky](https://github.com/rudkovsky)/[**txt2speech**](https://github.com/rudkovsky/txt2speech)",
+              "txt2Speech is a ruby library that with a help of Google Translate let you convert your text to speech",
+              ""
+            ],
+            [
+              "18",
+              "[@deees](https://github.com/deees)/[**thrift-rack-middlewa…**](https://github.com/deees/thrift-rack-middleware)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@sauliusgrigaitis](https://github.com/sauliusgrigaitis)/[**centostrano**](https://github.com/sauliusgrigaitis/centostrano)",
+              "Centostrano - deprec 2 (deployment recipes for Capistrano) port to CentOS",
+              "[:arrow_upper_right:](http://www.rubyonrails.lt/centostrano)"
+            ],
+            [
+              "16",
+              "[@mantas](https://github.com/mantas)/[**instapaper-kindle**](https://github.com/mantas/instapaper-kindle)",
+              "instapaper -> kindle uploader",
+              ""
+            ],
+            [
+              "15",
+              "[@laurynasl](https://github.com/laurynasl)/[**rubyrogue**](https://github.com/laurynasl/rubyrogue)",
+              "Currently just a growing skeleton for roguelike game being written in ruby (NCurses interface) and tested with RSpec",
+              ""
+            ],
+            [
+              "14",
+              "[@vidmantas](https://github.com/vidmantas)/[**cucumberator**](https://github.com/vidmantas/cucumberator)",
+              "Prompt for writing Cucumber tests",
+              "[:arrow_upper_right:](https://rubygems.org/gems/cucumberator)"
+            ],
+            [
+              "11",
+              "[@ViliusLuneckas](https://github.com/ViliusLuneckas)/[**metro-ui-rails**](https://github.com/ViliusLuneckas/metro-ui-rails)",
+              "Metro UI for Rails 3.1 Asset Pipeline",
+              "[:arrow_upper_right:](https://github.com/ViliusLuneckas/metro-ui-rails)"
+            ],
+            [
+              "7",
+              "[@ViliusLuneckas](https://github.com/ViliusLuneckas)/[**brainz**](https://github.com/ViliusLuneckas/brainz)",
+              "Artificial Neural Network library written in Ruby",
+              ""
+            ],
+            [
+              "7",
+              "[@mantas](https://github.com/mantas)/[**ActiveMongo**](https://github.com/mantas/ActiveMongo)",
+              "ActiveMongo",
+              ""
+            ],
+            [
+              "7",
+              "[@saulius](https://github.com/saulius)/[**has_token_on**](https://github.com/saulius/has_token_on)",
+              "Simple yet customizable token generator for Rails 3",
+              ""
+            ],
+            [
+              "7",
+              "[@laurynas](https://github.com/laurynas)/[**globalize3_translato…**](https://github.com/laurynas/globalize3_translator)",
+              "Globalize3 auto-translator using Google Translate (or any other backend)",
+              "[:arrow_upper_right:](http://github.com/laurynas/globalize3_translator/)"
+            ],
+            [
+              "6",
+              "[@laurynas](https://github.com/laurynas)/[**webtopay**](https://github.com/laurynas/webtopay)",
+              "plugin which could be very useful on working with https://www.webtopay.com/ (https://www.mokejimai.lt/) billing system",
+              ""
+            ],
+            [
+              "5",
+              "[@arturaz](https://github.com/arturaz)/[**date_range**](https://github.com/arturaz/date_range)",
+              "rails plugin for parsing date ranges out of strings",
+              ""
+            ],
+            [
+              "5",
+              "[@laurynas](https://github.com/laurynas)/[**activemerchant_money…**](https://github.com/laurynas/activemerchant_moneybookers)",
+              "Moneybookers payment gateway add-on to ActiveMerchant library",
+              "[:arrow_upper_right:](http://github.com/laurynas/activemerchant_moneybookers)"
+            ],
+            [
+              "5",
+              "[@andriusch](https://github.com/andriusch)/[**blueprints_boy**](https://github.com/andriusch/blueprints_boy)",
+              "The ultimate DRY and fast solution to managing any kind of test data. Based on Blueprints.",
+              "[:arrow_upper_right:](http://andriusch.github.io/blueprints_boy/)"
+            ],
+            [
+              "5",
+              "[@arturaz](https://github.com/arturaz)/[**jruby-scala-collecti…**](https://github.com/arturaz/jruby-scala-collections)",
+              "Interoperability layer for JRuby/Scala collections.",
+              ""
+            ],
+            [
+              "5",
+              "[@dvisockas](https://github.com/dvisockas)/[**bethoven**](https://github.com/dvisockas/bethoven)",
+              "Ruby gem for processing music",
+              ""
+            ],
+            [
+              "5",
+              "[@laurynas](https://github.com/laurynas)/[**activemerchant_bankl…**](https://github.com/laurynas/activemerchant_banklink)",
+              "Adds Banklink support to ActiveMerchant library. Banklink is provided by major banks in the Baltic states.",
+              "[:arrow_upper_right:](http://github.com/laurynas/activemerchant_banklink)"
+            ],
+            [
+              "4",
+              "[@titas](https://github.com/titas)/[**redmine-news-via-ema…**](https://github.com/titas/redmine-news-via-email-plugin)",
+              "plugin for redmine, enables adding comments and news via email.",
+              ""
+            ],
+            [
+              "4",
+              "[@arturaz](https://github.com/arturaz)/[**validates_slugizatio…**](https://github.com/arturaz/validates_slugization_of)",
+              "rails plugin for ensuring slug uniqueness",
+              ""
+            ],
+            [
+              "4",
+              "[@arturaz](https://github.com/arturaz)/[**as_lt_words**](https://github.com/arturaz/as_lt_words)",
+              "rails plugin for making dates/numbers in lithuanian words",
+              "[:arrow_upper_right:](http://rubyonrails.lt/forums/forums/4/topics/8)"
+            ],
+            [
+              "4",
+              "[@arturaz](https://github.com/arturaz)/[**flash_divs**](https://github.com/arturaz/flash_divs)",
+              "rails plugin for sweet handling of flash divs",
+              ""
+            ],
+            [
+              "4",
+              "[@arturaz](https://github.com/arturaz)/[**set_names_utf8**](https://github.com/arturaz/set_names_utf8)",
+              "tiny ror plugin that ensures that connection with mysql is in utf8",
+              ""
+            ],
+            [
+              "4",
+              "[@dvisockas](https://github.com/dvisockas)/[**rock**](https://github.com/dvisockas/rock)",
+              "Process rock into beautifull ruby",
+              ""
+            ],
+            [
+              "4",
+              "[@andriusch](https://github.com/andriusch)/[**tableasy**](https://github.com/andriusch/tableasy)",
+              "TODO: one-line summary of your gem",
+              ""
+            ],
+            [
+              "4",
+              "[@arturaz](https://github.com/arturaz)/[**jruby-pageant**](https://github.com/arturaz/jruby-pageant)",
+              "Gem for communicating with Pageant agent from JRuby",
+              ""
+            ],
+            [
+              "3",
+              "[@andriusch](https://github.com/andriusch)/[**Scotland-Yard**](https://github.com/andriusch/Scotland-Yard)",
+              "A remake of classic board game Scotland Yard in ruby, using gosu as graphics backend.",
+              ""
+            ],
+            [
+              "3",
+              "[@vidmantas](https://github.com/vidmantas)/[**makeit-time**](https://github.com/vidmantas/makeit-time)",
+              "Timetrack app with reports",
+              "[:arrow_upper_right:](www.makeit-time.com)"
+            ],
+            [
+              "3",
+              "[@arturaz](https://github.com/arturaz)/[**ruby_extensions**](https://github.com/arturaz/ruby_extensions)",
+              "activesupport wannabe ror plugin doing all sorts of useful stuff for me.",
+              ""
+            ],
+            [
+              "3",
+              "[@rudkovsky](https://github.com/rudkovsky)/[**hvylyna**](https://github.com/rudkovsky/hvylyna)",
+              "Time tracking app",
+              ""
+            ],
+            [
+              "3",
+              "[@laurynasl](https://github.com/laurynasl)/[**rspec_merb_helpers**](https://github.com/laurynasl/rspec_merb_helpers)",
+              "Helper methods for testing MERB applications",
+              ""
+            ],
+            [
+              "3",
+              "[@sauliusgrigaitis](https://github.com/sauliusgrigaitis)/[**bank**](https://github.com/sauliusgrigaitis/bank)",
+              "Simplified Banking Software project that I develop and use as teaching tool during \"Agile development with Ruby\" lectures a Vilnius University",
+              ""
+            ],
+            [
+              "3",
+              "[@laurynas](https://github.com/laurynas)/[**sidekiq-pool**](https://github.com/laurynas/sidekiq-pool)",
+              "Sidekiq::Pool allows Sidekiq using more CPU cores on Ruby MRI by forking multiple processes.",
+              ""
+            ],
+            [
+              "3",
+              "[@laurynasl](https://github.com/laurynasl)/[**sunflower-comments**](https://github.com/laurynasl/sunflower-comments)",
+              "sequel + postgres + comments = comment anything (polymorphic, with database triggers)",
+              ""
+            ],
+            [
+              "3",
+              "[@arturaz](https://github.com/arturaz)/[**prototype_helpers**](https://github.com/arturaz/prototype_helpers)",
+              "ror plugin for nifty prototype related helpers",
+              ""
+            ],
+            [
+              "3",
+              "[@arturaz](https://github.com/arturaz)/[**authorization_hooks**](https://github.com/arturaz/authorization_hooks)",
+              "rails plugin for my custom authorization system",
+              ""
+            ],
+            [
+              "3",
+              "[@arturaz](https://github.com/arturaz)/[**render_error**](https://github.com/arturaz/render_error)",
+              "rails plugin that adds :error option to controller render",
+              ""
+            ],
+            [
+              "3",
+              "[@arturaz](https://github.com/arturaz)/[**rss_helper**](https://github.com/arturaz/rss_helper)",
+              "ror plugin for easier rss production",
+              ""
+            ],
+            [
+              "2",
+              "[@pacifists](https://github.com/pacifists)/[**spritemaker**](https://github.com/pacifists/spritemaker)",
+              "It's two simple Ruby scripts that use Rmagick to generate css sprites from files that are passed to them. Original by Alex Pooley",
+              "[:arrow_upper_right:](http://www.alexpooley.com/2008/02/02/css-sprite-maker/)"
+            ],
+            [
+              "2",
+              "[@jpalumickas](https://github.com/jpalumickas)/[**ivapi**](https://github.com/jpalumickas/ivapi)",
+              "Ruby gem which helps to communicate with iv.lt API",
+              "[:arrow_upper_right:](https://jpalumickas.com/ivapi)"
+            ],
+            [
+              "2",
+              "[@jpalumickas](https://github.com/jpalumickas)/[**dummy_comments**](https://github.com/jpalumickas/dummy_comments)",
+              "Mini project for adding comments to home page.",
+              "[:arrow_upper_right:](http://dummy-comments.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@giedriusr](https://github.com/giedriusr)/[**chef-solo**](https://github.com/giedriusr/chef-solo)",
+              "Personal chef (solo) cookbooks for server management",
+              ""
+            ],
+            [
+              "2",
+              "[@titas](https://github.com/titas)/[**dbtag**](https://github.com/titas/dbtag)",
+              "tag a database and settings files and esily checkout them when you need them.",
+              ""
+            ],
+            [
+              "2",
+              "[@dvisockas](https://github.com/dvisockas)/[**graper**](https://github.com/dvisockas/graper)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@arturaz](https://github.com/arturaz)/[**struct-gen-lib**](https://github.com/arturaz/struct-gen-lib)",
+              "Library for generating structurogrames from XML",
+              ""
+            ],
+            [
+              "2",
+              "[@arturaz](https://github.com/arturaz)/[**smsd**](https://github.com/arturaz/smsd)",
+              "Little SMS daemon I wrote for communicating with Motorola C650 phone by AT GSM standart.",
+              ""
+            ],
+            [
+              "2",
+              "[@vidmantas](https://github.com/vidmantas)/[**numerical-methods**](https://github.com/vidmantas/numerical-methods)",
+              "Little apps for numerical methods course in software engineering, Vilnius University",
               ""
             ]
           ]
