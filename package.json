@@ -57,7 +57,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -1315,6 +1316,27 @@
               "2",
               "[@ReekenX](https://github.com/ReekenX)/[**poor-man-medal-of-ho…**](https://github.com/ReekenX/poor-man-medal-of-honor-game)",
               "My game written for Pyweek #21. It's Poor man's Medal of Honor game. Trust me - very poor.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@algveb](https://github.com/algveb)/[**Sporto-duomenu-anali…**](https://github.com/algveb/Sporto-duomenu-analize)",
+              "",
               ""
             ]
           ]
