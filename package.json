@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -805,6 +806,69 @@
               "2",
               "[@rracinskij](https://github.com/rracinskij)/[**rnntest01**](https://github.com/rracinskij/rnntest01)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@ud7](https://github.com/ud7)/[**UDTableView-allowsMu…**](https://github.com/ud7/UDTableView-allowsMultipleSelection)",
+              "UDTableView allowsMultipleSelection backport to pre iOS5",
+              ""
+            ],
+            [
+              "19",
+              "[@ud7](https://github.com/ud7)/[**UDStackViewControlle…**](https://github.com/ud7/UDStackViewController)",
+              "iOS stack implementation similar to what @linkedin app uses... check out how it works @ http://www.youtube.com/watch?v=yHbUXie7a…",
+              "[:arrow_upper_right:](http://www.ud7.com/)"
+            ],
+            [
+              "8",
+              "[@walkingsmarts](https://github.com/walkingsmarts)/[**WSCoreLaziness**](https://github.com/walkingsmarts/WSCoreLaziness)",
+              "A framework for lazy cocoa developers.",
+              "[:arrow_upper_right:](http://blog.walkingsmarts.com/wscorelaziness.html)"
+            ],
+            [
+              "5",
+              "[@pypt](https://github.com/pypt)/[**FreeDMG**](https://github.com/pypt/FreeDMG)",
+              "Mirror of FreeDMG (http://kelleycomputing.net/freedmg/)",
+              ""
+            ],
+            [
+              "4",
+              "[@ud7](https://github.com/ud7)/[**UDHud**](https://github.com/ud7/UDHud)",
+              "lightweight hud implementation for iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@Neophen](https://github.com/Neophen)/[**CCActionShake**](https://github.com/Neophen/CCActionShake)",
+              "CCActionShake",
+              ""
+            ],
+            [
+              "2",
+              "[@vygaldikas](https://github.com/vygaldikas)/[**CLImageEditor**](https://github.com/vygaldikas/CLImageEditor)",
+              "CLImageEditor provides basic image editing features to iPhone apps. This ViewController is simple to use, and is also possible to incorporate as part of the UIImagePickerController easily.",
+              ""
+            ],
+            [
+              "2",
+              "[@eimantas](https://github.com/eimantas)/[**ASImageResize**](https://github.com/eimantas/ASImageResize)",
+              "ASImageResize",
               ""
             ]
           ]
