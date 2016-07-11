@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -591,6 +592,123 @@
               "2",
               "[@Miceuz](https://github.com/Miceuz)/[**TV-B-Gone**](https://github.com/Miceuz/TV-B-Gone)",
               "TV be gone implementation on attiny44",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "796",
+              "[@aras-p](https://github.com/aras-p)/[**glsl-optimizer**](https://github.com/aras-p/glsl-optimizer)",
+              "GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.",
+              ""
+            ],
+            [
+              "267",
+              "[@aras-p](https://github.com/aras-p)/[**hlsl2glslfork**](https://github.com/aras-p/hlsl2glslfork)",
+              "HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.",
+              ""
+            ],
+            [
+              "42",
+              "[@aras-p](https://github.com/aras-p)/[**miniexr**](https://github.com/aras-p/miniexr)",
+              "Small code to write OpenEXR images",
+              ""
+            ],
+            [
+              "28",
+              "[@aras-p](https://github.com/aras-p)/[**sizer**](https://github.com/aras-p/sizer)",
+              "Win32 executable size reporting",
+              ""
+            ],
+            [
+              "15",
+              "[@aras-p](https://github.com/aras-p)/[**glsl-load-speed**](https://github.com/aras-p/glsl-load-speed)",
+              "Quick test of GLSL shader loading speed",
+              ""
+            ],
+            [
+              "11",
+              "[@chemicstry](https://github.com/chemicstry)/[**poolserver**](https://github.com/chemicstry/poolserver)",
+              "Cryptocurrency mining pool written in C++ for speed. Supports Stratum.",
+              ""
+            ],
+            [
+              "10",
+              "[@aras-p](https://github.com/aras-p)/[**dingus**](https://github.com/aras-p/dingus)",
+              "engine used in some nesnausk! demos",
+              ""
+            ],
+            [
+              "8",
+              "[@Codewaves](https://github.com/Codewaves)/[**mdisasm**](https://github.com/Codewaves/mdisasm)",
+              "Basic disassembler for Cortex M0/M3 ",
+              ""
+            ],
+            [
+              "6",
+              "[@Gediminas](https://github.com/Gediminas)/[**vss2git**](https://github.com/Gediminas/vss2git)",
+              "Microsoft Visual SourceSafe to GIT / SVN repository migration tool",
+              ""
+            ],
+            [
+              "4",
+              "[@Chaosteil](https://github.com/Chaosteil)/[**dwarvesvsgoblins**](https://github.com/Chaosteil/dwarvesvsgoblins)",
+              "Dwarves vs Goblins - A competitve multiplayer adaptation of Dungeon Keeper",
+              ""
+            ],
+            [
+              "4",
+              "[@chemicstry](https://github.com/chemicstry)/[**wow**](https://github.com/chemicstry/wow)",
+              "Moved private",
+              "[:arrow_upper_right:](http://wow.sunfire.lt/)"
+            ],
+            [
+              "4",
+              "[@DCoderLT](https://github.com/DCoderLT)/[**Misc_Tools**](https://github.com/DCoderLT/Misc_Tools)",
+              "Collection of random things that may or may not be related to each other,",
+              ""
+            ],
+            [
+              "3",
+              "[@Chaosteil](https://github.com/Chaosteil)/[**AwesomeScript**](https://github.com/Chaosteil/AwesomeScript)",
+              "AwesomeScript to PHP translator.",
+              ""
+            ],
+            [
+              "3",
+              "[@MadStyleCow](https://github.com/MadStyleCow)/[**AxTS_Rebuild**](https://github.com/MadStyleCow/AxTS_Rebuild)",
+              "Complete rewrite of a TS3 plug-in for ArmA2",
+              ""
+            ],
+            [
+              "2",
+              "[@Chaosteil](https://github.com/Chaosteil)/[**Thor-VM-OS**](https://github.com/Chaosteil/Thor-VM-OS)",
+              "A simple VM/OS for university as assignment",
+              ""
+            ],
+            [
+              "2",
+              "[@Codewaves](https://github.com/Codewaves)/[**cwjson**](https://github.com/Codewaves/cwjson)",
+              "cwjson is a small C++ JSON parser.",
+              "[:arrow_upper_right:](http://digital.codewaves.com/)"
+            ],
+            [
+              "2",
+              "[@serengeor](https://github.com/serengeor)/[**TheProject**](https://github.com/serengeor/TheProject)",
+              "One step at a time",
               ""
             ]
           ]
