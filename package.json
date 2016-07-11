@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -534,6 +535,63 @@
               "[@vilniusrb](https://github.com/vilniusrb)/[**vilniusrb.lt**](https://github.com/vilniusrb/vilniusrb.lt)",
               "",
               "[:arrow_upper_right:](http://vilniusrb.lt)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@andrius4669](https://github.com/andrius4669)/[**zeromod**](https://github.com/andrius4669/zeromod)",
+              "Lightweight and advanced mod of sauerbraten server",
+              ""
+            ],
+            [
+              "5",
+              "[@kbiva](https://github.com/kbiva)/[**stm32f103_projects**](https://github.com/kbiva/stm32f103_projects)",
+              "Various projects for STM32F103 microcontroller and HY-STM32 board",
+              ""
+            ],
+            [
+              "5",
+              "[@andrius4669](https://github.com/andrius4669)/[**zeromod-tesseract**](https://github.com/andrius4669/zeromod-tesseract)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Jauler](https://github.com/Jauler)/[**CameraTraps**](https://github.com/Jauler/CameraTraps)",
+              "Cheap DIY Camera Traps for Citizen Science",
+              ""
+            ],
+            [
+              "4",
+              "[@kbiva](https://github.com/kbiva)/[**stm32f103_libs**](https://github.com/kbiva/stm32f103_libs)",
+              "Various libraries for STM32F103 microcontroller and HY-STM32 board",
+              ""
+            ],
+            [
+              "4",
+              "[@andrius4669](https://github.com/andrius4669)/[**zeromod-sauerbraten**](https://github.com/andrius4669/zeromod-sauerbraten)",
+              "zeromod-tesseract port to sauerbraten",
+              ""
+            ],
+            [
+              "2",
+              "[@Miceuz](https://github.com/Miceuz)/[**TV-B-Gone**](https://github.com/Miceuz/TV-B-Gone)",
+              "TV be gone implementation on attiny44",
+              ""
             ]
           ]
         }
