@@ -60,7 +60,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1675,6 +1676,33 @@
               "7",
               "[@zamblauskas](https://github.com/zamblauskas)/[**scala-csv-parser**](https://github.com/zamblauskas/scala-csv-parser)",
               "CSV parser library.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@netikras](https://github.com/netikras)/[**ConkyClicky**](https://github.com/netikras/ConkyClicky)",
+              "This bunch of scripts will make your conky 'clicky' :)",
+              ""
+            ],
+            [
+              "3",
+              "[@viliusl](https://github.com/viliusl)/[**docker-sshd-nginx**](https://github.com/viliusl/docker-sshd-nginx)",
+              "Docker image with passwordless sshd server and nginx serving static page",
               ""
             ]
           ]
