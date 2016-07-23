@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-lithuania#readme",
   "blah": {
+    "title": "Made in Lithuania",
     "installation": [
       {
         "h2": "Contents"
