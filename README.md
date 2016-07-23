@@ -1,16 +1,9 @@
 
-# made-in-lithuania
+# Made in Lithuania
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-lithuania.svg)](https://www.npmjs.com/package/made-in-lithuania) [![Downloads](https://img.shields.io/npm/dt/made-in-lithuania.svg)](https://www.npmjs.com/package/made-in-lithuania) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Lithuania
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-lithuania
-```
-
 
 ## Contents
 
@@ -313,31 +306,6 @@ $ npm i --save made-in-lithuania
 --- | --- | --- | ---
 9 | [@netikras](https://github.com/netikras)/[**ConkyClicky**](https://github.com/netikras/ConkyClicky) | This bunch of scripts will make your conky 'clicky' :) |
 3 | [@viliusl](https://github.com/viliusl)/[**docker-sshd-nginx**](https://github.com/viliusl/docker-sshd-nginx) | Docker image with passwordless sshd server and nginx serving static page |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInLithuania = require("made-in-lithuania");
-
-console.log(madeInLithuania());
-```
-
-## :memo: Documentation
-
-
-### `madeInLithuania(a, b)`
-A list of neat projects made in Lithuania
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
