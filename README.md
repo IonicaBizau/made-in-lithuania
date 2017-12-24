@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -27,6 +28,7 @@
  - [Shell](#shell)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 354 | [@jakutis](https://github.com/jakutis)/[**httpinvoke**](https://github.com/jakutis/httpinvoke) | A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code. | [:arrow_upper_right:](https://www.npmjs.org/package/httpinvoke)
@@ -55,7 +57,9 @@
 2 | [@Tomas-Sereikis](https://github.com/Tomas-Sereikis)/[**Pe**](https://github.com/Tomas-Sereikis/Pe) | Promise Evaluation - library that handles your stack evaluations |
 2 | [@denis-sokolov](https://github.com/denis-sokolov)/[**details-tag**](https://github.com/denis-sokolov/details-tag) | A polyfill for <details> tag. |
 2 | [@sergej-kurakin](https://github.com/sergej-kurakin)/[**jquery-plugin-kickst…**](https://github.com/sergej-kurakin/jquery-plugin-kickstart) | jQuery Plugin KickStart |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 680 | [@palaima](https://github.com/palaima)/[**DebugDrawer**](https://github.com/palaima/DebugDrawer) | Android Debug Drawer for faster development |
@@ -72,7 +76,9 @@
 3 | [@OrangGeeGee](https://github.com/OrangGeeGee)/[**LM-Bot-Uploader**](https://github.com/OrangGeeGee/LM-Bot-Uploader) | Java kalboje parašytas bot'as, kuris atsiųstus torrentus išrarina, gauna jiem aprašymus ir sukelia į LM'ą. Na ir automatiškai paleidžia dar po to :) |
 2 | [@OrangGeeGee](https://github.com/OrangGeeGee)/[**LM-App**](https://github.com/OrangGeeGee/LM-App) | LinkoManijos aplikacija Android OS'ui |
 2 | [@edmundas-ramanauskas](https://github.com/edmundas-ramanauskas)/[**square**](https://github.com/edmundas-ramanauskas/square) | Clone of Dots game for Android |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 105 | [@radioman](https://github.com/radioman)/[**greatmaps**](https://github.com/radioman/greatmaps) | GMap.NET - Great Maps for Windows Forms & Presentation |
@@ -105,11 +111,15 @@
 2 | [@ren85](https://github.com/ren85)/[**leveldb.net**](https://github.com/ren85/leveldb.net) | .net wrapper around windows port of leveldb taken from https://bitbucket.org/robertvazan/leveld… |
 2 | [@akrisiun](https://github.com/akrisiun)/[**csdiff**](https://github.com/akrisiun/csdiff) | Automatically exported from code.google.com/p/csdiff |
 2 | [@mmozuras](https://github.com/mmozuras)/[**rison.NET**](https://github.com/mmozuras/rison.NET) | Rison encoder and decoder for .NET |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@vilniusrb](https://github.com/vilniusrb)/[**vilniusrb.lt**](https://github.com/vilniusrb/vilniusrb.lt) |  | [:arrow_upper_right:](http://vilniusrb.lt)
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@andrius4669](https://github.com/andrius4669)/[**zeromod**](https://github.com/andrius4669/zeromod) | Lightweight and advanced mod of sauerbraten server |
@@ -119,7 +129,9 @@
 4 | [@kbiva](https://github.com/kbiva)/[**stm32f103_libs**](https://github.com/kbiva/stm32f103_libs) | Various libraries for STM32F103 microcontroller and HY-STM32 board |
 4 | [@andrius4669](https://github.com/andrius4669)/[**zeromod-sauerbraten**](https://github.com/andrius4669/zeromod-sauerbraten) | zeromod-tesseract port to sauerbraten |
 2 | [@Miceuz](https://github.com/Miceuz)/[**TV-B-Gone**](https://github.com/Miceuz/TV-B-Gone) | TV be gone implementation on attiny44 |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 796 | [@aras-p](https://github.com/aras-p)/[**glsl-optimizer**](https://github.com/aras-p/glsl-optimizer) | GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. |
@@ -139,7 +151,9 @@
 2 | [@Chaosteil](https://github.com/Chaosteil)/[**Thor-VM-OS**](https://github.com/Chaosteil/Thor-VM-OS) | A simple VM/OS for university as assignment |
 2 | [@Codewaves](https://github.com/Codewaves)/[**cwjson**](https://github.com/Codewaves/cwjson) | cwjson is a small C++ JSON parser. | [:arrow_upper_right:](http://digital.codewaves.com/)
 2 | [@serengeor](https://github.com/serengeor)/[**TheProject**](https://github.com/serengeor/TheProject) | One step at a time |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 38 | [@Varnius](https://github.com/Varnius)/[**StarlingRendererPlus**](https://github.com/Varnius/StarlingRendererPlus) | Starling deferred shading and post-fx extension |
@@ -147,16 +161,22 @@
 15 | [@Varnius](https://github.com/Varnius)/[**SpriteIlluminatorSta…**](https://github.com/Varnius/SpriteIlluminatorStarling) |  |
 10 | [@Varnius](https://github.com/Varnius)/[**Alternativa3DCustomM…**](https://github.com/Varnius/Alternativa3DCustomMaterials) | Custom materials for Alternativa3D |
 2 | [@TurboMask](https://github.com/TurboMask)/[**Fractals**](https://github.com/TurboMask/Fractals) | Fractal image generator |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 29 | [@lekevicius](https://github.com/lekevicius)/[**assetpress**](https://github.com/lekevicius/assetpress) | High quality asset resizer for iOS and Android. Features Xcassets generator and the best 9-patch resizer. | [:arrow_upper_right:](http://lekevicius.com/projects/assetpress)
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@mindeunix](https://github.com/mindeunix)/[**awesome-config**](https://github.com/mindeunix/awesome-config) | Awesome windows manager configuration |
 2 | [@rracinskij](https://github.com/rracinskij)/[**rnntest01**](https://github.com/rracinskij/rnntest01) |  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 27 | [@ud7](https://github.com/ud7)/[**UDTableView-allowsMu…**](https://github.com/ud7/UDTableView-allowsMultipleSelection) | UDTableView allowsMultipleSelection backport to pre iOS5 |
@@ -167,7 +187,9 @@
 2 | [@Neophen](https://github.com/Neophen)/[**CCActionShake**](https://github.com/Neophen/CCActionShake) | CCActionShake |
 2 | [@vygaldikas](https://github.com/vygaldikas)/[**CLImageEditor**](https://github.com/vygaldikas/CLImageEditor) | CLImageEditor provides basic image editing features to iPhone apps. This ViewController is simple to use, and is also possible to incorporate as part of the UIImagePickerController easily. |
 2 | [@eimantas](https://github.com/eimantas)/[**ASImageResize**](https://github.com/eimantas/ASImageResize) | ASImageResize |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1551 | [@raveren](https://github.com/raveren)/[**kint**](https://github.com/raveren/kint) | Kint - a powerful and modern PHP debugging tool. | [:arrow_upper_right:](http://raveren.github.io/kint/)
@@ -201,7 +223,9 @@
 2 | [@fordnox](https://github.com/fordnox)/[**purevpn-php-api-clie…**](https://github.com/fordnox/purevpn-php-api-client) | API wrapper for PureVPN |
 2 | [@fordnox](https://github.com/fordnox)/[**analysis**](https://github.com/fordnox/analysis) | Analyze website |
 2 | [@EllisV](https://github.com/EllisV)/[**oxid-standard**](https://github.com/EllisV/oxid-standard) | The "OXID Standard Edition" distribution |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 158 | [@GedRap](https://github.com/GedRap)/[**xs-vm**](https://github.com/GedRap/xs-vm) | eXtremely small virtual machine -- for education purposes :) |
@@ -242,11 +266,15 @@
 2 | [@Ignas](https://github.com/Ignas)/[**Blank-Pyramid-Sandbo…**](https://github.com/Ignas/Blank-Pyramid-Sandbox) | My kind of sandbox for a pyramid application |
 2 | [@mgedmin](https://github.com/mgedmin)/[**memgraphinator**](https://github.com/mgedmin/memgraphinator) | Graph the memory usage of a single process |
 2 | [@ReekenX](https://github.com/ReekenX)/[**poor-man-medal-of-ho…**](https://github.com/ReekenX/poor-man-medal-of-honor-game) | My game written for Pyweek #21. It's Poor man's Medal of Honor game. Trust me - very poor. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@algveb](https://github.com/algveb)/[**Sporto-duomenu-anali…**](https://github.com/algveb/Sporto-duomenu-analize) |  |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 54 | [@andriusch](https://github.com/andriusch)/[**blueprints**](https://github.com/andriusch/blueprints) | The ultimate DRY and fast solution to loading test data in Ruby and Rails. | [:arrow_upper_right:](http://andriusch.github.io/blueprints/)
@@ -297,17 +325,22 @@
 2 | [@arturaz](https://github.com/arturaz)/[**struct-gen-lib**](https://github.com/arturaz/struct-gen-lib) | Library for generating structurogrames from XML |
 2 | [@arturaz](https://github.com/arturaz)/[**smsd**](https://github.com/arturaz/smsd) | Little SMS daemon I wrote for communicating with Motorola C650 phone by AT GSM standart. |
 2 | [@vidmantas](https://github.com/vidmantas)/[**numerical-methods**](https://github.com/vidmantas/numerical-methods) | Little apps for numerical methods course in software engineering, Vilnius University |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13 | [@zamblauskas](https://github.com/zamblauskas)/[**jstatplot**](https://github.com/zamblauskas/jstatplot) | Visualize `jstat -gc` results. |
 11 | [@ViliusN](https://github.com/ViliusN)/[**Crossbow**](https://github.com/ViliusN/Crossbow) | Open source library for trading strategy developers. | [:arrow_upper_right:](http://crossbow-library.blogspot.com/)
 7 | [@zamblauskas](https://github.com/zamblauskas)/[**scala-csv-parser**](https://github.com/zamblauskas/scala-csv-parser) | CSV parser library. |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@netikras](https://github.com/netikras)/[**ConkyClicky**](https://github.com/netikras/ConkyClicky) | This bunch of scripts will make your conky 'clicky' :) |
 3 | [@viliusl](https://github.com/viliusl)/[**docker-sshd-nginx**](https://github.com/viliusl/docker-sshd-nginx) | Docker image with passwordless sshd server and nginx serving static page |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
