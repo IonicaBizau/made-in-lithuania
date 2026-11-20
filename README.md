@@ -56,9 +56,9 @@
 
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](#c-1)
+ - [C#](#c)
  - [HTML](#html)
- - [C](#c)
+ - [C](#c-1)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [CoffeeScript](#coffeescript)
