@@ -58,7 +58,7 @@
  - [Java](#java)
  - [C#](#c-1)
  - [HTML](#html)
- - [C](undefined)
+ - [C](#c)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [CoffeeScript](#coffeescript)
@@ -70,6 +70,7 @@
  - [Ruby](#ruby)
  - [Scala](#scala)
  - [Shell](#shell)
+ - [VimScript](#vimscript)
 
 ### JavaScript #
 
@@ -174,6 +175,11 @@
 | 4 | [@andrius4669](https://github.com/andrius4669)/[**zeromod-sauerbraten**](https://github.com/andrius4669/zeromod-sauerbraten) | zeromod-tesseract port to sauerbraten |  |
 | 2 | [@Miceuz](https://github.com/Miceuz)/[**TV-B-Gone**](https://github.com/Miceuz/TV-B-Gone) | TV be gone implementation on attiny44 |  |
 
+### C #
+
+| 2 | [@ar1ja](https://github.com/ar1ja)/[**vessel**](https://git.ari.lt/ari/vessel) | A lightweight C framework for building web and network applications. |  |
+
+
 ### C++ #
 
 | :star2: | Name | Description | 🌍  |
@@ -205,6 +211,7 @@
 | 15 | [@Varnius](https://github.com/Varnius)/[**SpriteIlluminatorSta…**](https://github.com/Varnius/SpriteIlluminatorStarling) |  |  |
 | 10 | [@Varnius](https://github.com/Varnius)/[**Alternativa3DCustomM…**](https://github.com/Varnius/Alternativa3DCustomMaterials) | Custom materials for Alternativa3D |  |
 | 2 | [@TurboMask](https://github.com/TurboMask)/[**Fractals**](https://github.com/TurboMask/Fractals) | Fractal image generator |  |
+| 3 | [@ar1ja](https://github.com/ar1ja)/[**kos**](https://git.ari.lt/ari/kos) | A simple sudo alternative written in C++. |  |
 
 ### CoffeeScript #
 
@@ -308,8 +315,12 @@
 | 2 | [@Ignas](https://github.com/Ignas)/[**Dodopult**](https://github.com/Ignas/Dodopult) | Vilnius GGJ Dodopult game |  |
 | 2 | [@flakas](https://github.com/flakas)/[**Multiprocess-e**](https://github.com/flakas/Multiprocess-e) | High precision e calculator using multiprocessing |  |
 | 2 | [@Ignas](https://github.com/Ignas)/[**Blank-Pyramid-Sandbo…**](https://github.com/Ignas/Blank-Pyramid-Sandbox) | My kind of sandbox for a pyramid application |  |
+| 1 | [@ar1ja](https://github.com/ar1ja)/[**yeller**](https://git.ari.lt/ari/yeller) | An IMAP-based bot that alerts you when your DMARC RUA or TLS-RPT reports show failures or misconfigurations. |  |
 | 2 | [@mgedmin](https://github.com/mgedmin)/[**memgraphinator**](https://github.com/mgedmin/memgraphinator) | Graph the memory usage of a single process |  |
 | 2 | [@ReekenX](https://github.com/ReekenX)/[**poor-man-medal-of-ho…**](https://github.com/ReekenX/poor-man-medal-of-honor-game) | My game written for Pyweek #21. It's Poor man's Medal of Honor game. Trust me - very poor. |  |
+| 3 | [@ar1ja](https://github.com/ar1ja)/[**armour**](https://git.ari.lt/ari/armour) | A library for password management, security, and generation. |  |
+| 73 | [@ar1ja](https://github.com/ar1ja)/[**arigram**](https://github.com/ar1ja/arigram) | A highly customisable, end-of-life terminal user interface (TUI) Telegram client. |  |
+
 
 ### R #
 
@@ -384,7 +395,12 @@
 | ------- | ---- | ----------- | --- |
 | 9 | [@netikras](https://github.com/netikras)/[**ConkyClicky**](https://github.com/netikras/ConkyClicky) | This bunch of scripts will make your conky 'clicky' :) |  |
 | 3 | [@viliusl](https://github.com/viliusl)/[**docker-sshd-nginx**](https://github.com/viliusl/docker-sshd-nginx) | Docker image with passwordless sshd server and nginx serving static page |  |
+| 9 | [@ar1ja](https://github.com/ar1ja)/[**baz**](https://git.ari.lt/ari/baz) | A fast, lightweight plugin manager for GNU Bash.  |  |
+| 1 | [@ar1ja](https://github.com/ar1ja)/[**bdwmb**](https://git.ari.lt/ari/bdwmb) | A simple, modular bash/shell script for configuring your Suckless DWM bar. |  |
 
+### VimScript #
+
+| 1 | [@ar1ja](https://github.com/ar1ja)/[**wrapped.vim**](https://git.ari.lt/ari/wrapped.vim) | Your year in Vim, visualised through yearly usage statistics. |  |
 
 
 
