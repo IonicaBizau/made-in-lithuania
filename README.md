@@ -174,9 +174,6 @@
 | 4 | [@kbiva](https://github.com/kbiva)/[**stm32f103_libs**](https://github.com/kbiva/stm32f103_libs) | Various libraries for STM32F103 microcontroller and HY-STM32 board |  |
 | 4 | [@andrius4669](https://github.com/andrius4669)/[**zeromod-sauerbraten**](https://github.com/andrius4669/zeromod-sauerbraten) | zeromod-tesseract port to sauerbraten |  |
 | 2 | [@Miceuz](https://github.com/Miceuz)/[**TV-B-Gone**](https://github.com/Miceuz/TV-B-Gone) | TV be gone implementation on attiny44 |  |
-
-### C #
-
 | 2 | [@ar1ja](https://github.com/ar1ja)/[**vessel**](https://git.ari.lt/ari/vessel) | A lightweight C framework for building web and network applications. |  |
 
 
@@ -400,6 +397,8 @@
 
 ### VimScript #
 
+| :star2: | Name | Description | 🌍  |
+| ------- | ---- | ----------- | --- |
 | 1 | [@ar1ja](https://github.com/ar1ja)/[**wrapped.vim**](https://git.ari.lt/ari/wrapped.vim) | Your year in Vim, visualised through yearly usage statistics. |  |
 
 
